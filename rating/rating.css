@@ -1,0 +1,19 @@
+.ratio{
+    padding: 0px;
+    margin: 0px;
+    float: left;
+}
+.ratio li{
+    line-height: 0px;
+    width: 16px;
+    height: 16px;
+    padding: 0px;
+    margin: 0px;
+    margin-left: 2px;
+    list-style: none;
+    float: left;
+    cursor: pointer;
+}
+.ratio li span{
+    display: none;
+}
